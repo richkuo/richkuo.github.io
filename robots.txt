@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://richkuo.github.io/sitemap.xml 
